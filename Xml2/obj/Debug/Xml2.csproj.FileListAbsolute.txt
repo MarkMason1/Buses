@@ -1,0 +1,6 @@
+C:\Users\mark2\RiderProjects\Xml2\Xml2\bin\Debug\Xml2.exe
+C:\Users\mark2\RiderProjects\Xml2\Xml2\bin\Debug\Xml2.pdb
+C:\Users\mark2\RiderProjects\Xml2\Xml2\obj\Debug\Xml2.csprojAssemblyReference.cache
+C:\Users\mark2\RiderProjects\Xml2\Xml2\obj\Debug\Xml2.csproj.CoreCompileInputs.cache
+C:\Users\mark2\RiderProjects\Xml2\Xml2\obj\Debug\Xml2.exe
+C:\Users\mark2\RiderProjects\Xml2\Xml2\obj\Debug\Xml2.pdb
